@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/JavaScript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/.svg" />
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"> ## JavaScript
