@@ -8,9 +8,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[<img> width="32" src="https://unpkg.com/sinple-icons@v4/icons/JavaScript.svg" aling="left" /> [JavaScript]
-
-
-[JavaScript]
-[NodeJS]
-[MongoDB]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/JavaScript.svg" />
