@@ -9,14 +9,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="15" height="15">  JavaScript <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="15" height="15">  NodeJS <br> 
 
-
-const axios = require('axios').default;
-setInterval(async() => {
-    await axios.get("view kartın url'si").then(x => {
-        console.log(`istek başarılı bir şekilde gitti.`);
-    }).catch(err => console.log("time out yedi"));
-}, 750); //süreyi internetinizin kalitesine göre arttırabilir ya da azaltabilirsiniz ama en ideali 750ms (Eğer internetiniz yavaşsa 1000-1500ms(1-1.5saniye) arasına çekebilirsiniz. 
-
 ## İletişim Adreslerim
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" width="32" height="32"> [Discord] <br>
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /> [İnstagram] <br>
