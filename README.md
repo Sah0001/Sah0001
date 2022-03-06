@@ -3,7 +3,6 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="15" height="15">  JavaScript <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="15" height="15">  NodeJS <br> 
-<img height="32" width="32" src="https://user-images.githubusercontent.com/72082230/156942898-214730e1-8092-46ac-9c39-ca0f4a61480a.gif">
 
 ## İletişim Adreslerim
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" width="32" height="32"> [Discord] <br>
@@ -16,3 +15,5 @@
 [Discord]: https://discord.gg/ZvcrKsH9fC
 [İnstagram]: https://www.instagram.com/hasancan.lll/
 
+
+<img height="" width="" src="https://user-images.githubusercontent.com/72082230/156942898-214730e1-8092-46ac-9c39-ca0f4a61480a.gif">
