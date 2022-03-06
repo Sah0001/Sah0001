@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="15" height="15">  JavaScript <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="15" height="15">  NodeJS <br> 
 
-![image](https://user-images.githubusercontent.com/72082230/156942834-7511bdf5-141a-4ce7-b735-efc5aaf1fd86.png)
+![image](https://cdn.discordapp.com/attachments/900806346771931186/950084893210198016/standard_1.gif)
 
 ## İletişim Adreslerim
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" width="32" height="32"> [Discord] <br>
