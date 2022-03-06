@@ -1,4 +1,4 @@
-<img src= "![image](https://user-images.githubusercontent.com/72082230/156942828-3d3a86ff-127e-4068-abc0-2202cc42fb18.png)">
+![image](https://user-images.githubusercontent.com/72082230/156942834-7511bdf5-141a-4ce7-b735-efc5aaf1fd86.png)
 
 🌠Merhaba, ben Hasan. 21 yaşındayım. Yaklaşık 5 yıldır Discord kullanıyorum. Yaklaşık 1 yıldır yazılımla uğraşıyorum. 1 yıl önce Discord'da bot geliştirmeye başladım. Bot geliştirme dışında müzik dinlemeyi seviyorum. Kendimi geliştirmeye ve öğrenmeye açığım. Umarım gelecekte hayallerim doğrultusunda güzel yerlere gelirim. Beni Discord'da Şah#0001 etiketiyle bulabilirsiniz. Görüşürüz!
 
